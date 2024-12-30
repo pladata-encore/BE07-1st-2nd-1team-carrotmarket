@@ -72,13 +72,13 @@ src/
 ---
 ## 📊 프론트엔드 산출물
 - [화면 및 기능 설계서](src/main/resources/docs/요구사항명세서.xlsx)
-- [테스트 계획 및 결과 보고서](src/main/resources/docs/화면및기능설계서(발표).pptx)
+- [테스트 계획 및 결과 보고서](https://docs.google.com/spreadsheets/d/1VGuFFm2lPFxgiYA9UjRXS_mFDupgv6qXNfHxVf7uNtE/edit?usp=sharing)
 
 ## 📊 백엔드 산출물
 - [프로그램 요구사항 명세서](src/main/resources/docs/요구사항명세서.xlsx)
 - [기능 명세서](src/main/resources/docs/요구사항명세서.xlsx)
 - [설계문서](src/main/resources/docs/요구사항명세서.xlsx)
-- [테스트 및 결과 보고서](src/main/resources/docs/화면및기능설계서(발표).pptx)
+- [테스트 및 결과 보고서](https://docs.google.com/spreadsheets/d/11PIGs6h_AOH7rg6_XovjgJ4qMtjx8t5dF20EG7xl1SI/edit?usp=sharing)
 
 ---
 
